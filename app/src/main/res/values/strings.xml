@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">E-Books</string>
+    <string name="e_books">Catalog</string>
+    <string name="non_fiction_books">Non-fiction books</string>
+    <string name="Sci_fiction_books">Sci-Fiction books</string>
+    <string name="lifestyle">Lifestyle</string>
+    <string name="_48_laws_of_power">48 Laws of Power</string>
+    <string name="chapter_1">Chapter 1</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc volutpat dui nec tortor vehicula efficitur.
+        Aliquam blandit tortor nulla, nec auctor nunc pharetra eu. Donec a mattis ipsum. Quisque sit amet felis libero. Sed at eros
+        in orci ullamcorper vestibulum. Duis sit amet quam augue. Suspendisse potenti. Aenean lobortis sollicitudin condimentum.
+        Pellentesque nibh neque, feugiat nec convallis vitae, eleifend ac leo. In imperdiet auctor cursus. Sed quis nunc massa.
+        Fusce et tellus felis. Proin tincidunt eros non justo molestie luctus sed ut dui. Praesent id ipsum placerat, convallis
+        ipsum sed, convallis diam. Donec lobortis magna eu ex tincidunt ultrices. Class aptent taciti sociosqu ad litora torquent
+        per conubia nostra, per inceptos himenaeos.Sed congue a sapien efficitur ornare. Maecenas ullamcorper lobortis consequat.
+        Nullam vel faucibus arcu. Quisque efficitur consectetur ligula a condimentum. Donec quis bibendum urna, sit amet cursus dolor.
+        Vivamus accumsan tortor augue, et cursus nulla varius id. Donec dui leo, rhoncus at nibh a, consectetur pulvinar erat. Aenean
+        sagittis semper quam at gravida. Nunc vitae urna nisi.
+        Curabitur sit amet nisi non nibh ullamcorper dictum. Etiam non ipsum nunc. Cras luctus risus sem, vitae commodo dolor dapibus eget.
+        Vivamus quis blandit sem, a blandit metus. Nam condimentum maximus pellentesque. Praesent vel semper eros, nec hendrerit eros.
+        Etiam mi arcu, sodales lobortis porttitor sodales, vulputate et dolor. Nam non sapien mauris. Praesent at nibh at magna
+        dignissim molestie. Integer suscipit magna nec elit maximus tincidunt. Nunc finibus lobortis viverra. Nulla quis enim vel
+        est viverra lacinia. Mauris sed rutrum nunc. Quisque varius tellus eget purus posuere congue. Sed at ex ornare, tempus
+        odio ornare, sagittis lectus.
+         Nam scelerisque, enim id tincidunt tincidunt, tellus turpis tempor libero, nec pharetra diam lacus sed tortor. Mauris aliquam
+        mattis libero, nec congue sem tristique ac. Donec consequat hendrerit tincidunt. Sed feugiat est in lectus consequat,
+        vitae pellentesque augue venenatis. Nam quis posuere leo. Ut a velit urna. Nullam laoreet elit a dui fermentum tempus.
+         Suspendisse laoreet, turpis at vulputate molestie, nisi leo sollicitudin metus, sed accumsan nulla est eget lectus. Suspendisse
+        blandit, mi eget pellentesque condimentum, dui erat finibus lacus, vitae condimentum mi tortor sit amet dolor. Cras tempor
+        tempus enim ac interdum. Cras lacus lacus, pharetra dignissim dignissim et, sagittis convallis nibh. Sed faucibus pretium
+        posuere. Pellentesque ut magna varius, volutpat leo ac, fermentum urna. Proin eu tellus vitae nisi tincidunt fermentum euismod
+        ac turpis. Aliquam mollis convallis velit at suscipit. Donec eget lobortis nisi. Nullam ut mollis ante, at mollis neque.
+        Aenean massa lorem, aliquam a nulla id, tempus malesuada nulla. Proin sed est vel neque sollicitudin varius scelerisque
+        efficitur augue.</string>
+</resources>
