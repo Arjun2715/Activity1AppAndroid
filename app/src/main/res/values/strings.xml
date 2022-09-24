@@ -32,4 +32,6 @@
         ac turpis. Aliquam mollis convallis velit at suscipit. Donec eget lobortis nisi. Nullam ut mollis ante, at mollis neque.
         Aenean massa lorem, aliquam a nulla id, tempus malesuada nulla. Proin sed est vel neque sollicitudin varius scelerisque
         efficitur augue.</string>
+    <string name="mystery">Mystery</string>
+    <string name="cyberpunk">Cyberpunk</string>
 </resources>

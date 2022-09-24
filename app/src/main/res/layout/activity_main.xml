@@ -26,14 +26,13 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="vertical">
-
+            <!--non_fiction_books books scroll -->
             <TextView
                 android:layout_width="410dp"
                 android:layout_height="40dp"
                 android:padding="5dp"
                 android:text="@string/non_fiction_books"
                 android:textSize="20sp" />
-
             <HorizontalScrollView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -48,10 +47,10 @@
                         android:layout_width="161dp"
                         android:layout_height="210dp"
                         android:layout_margin="5dp"
-                        android:src="@drawable/a15"
                         android:clickable="true"
+                        android:src="@drawable/a15"
 
-                        />
+                        tools:ignore="SpeakableTextPresentCheck" />
 
                     <ImageView
                         android:layout_width="165dp"
@@ -64,8 +63,27 @@
                         android:layout_height="210dp"
                         android:layout_margin="5dp"
                         android:src="@drawable/a3" />
+                    <ImageView
+                        android:layout_width="161dp"
+                        android:layout_height="210dp"
+                        android:layout_margin="5dp"
+                        android:src="@drawable/a19" />
+
+                    <ImageView
+                        android:layout_width="165dp"
+                        android:layout_height="210dp"
+                        android:layout_margin="5dp"
+                        android:src="@drawable/a20" />
+
+                    <ImageView
+                        android:layout_width="165dp"
+                        android:layout_height="210dp"
+                        android:layout_margin="5dp"
+                        android:src="@drawable/a22" />
                 </LinearLayout>
             </HorizontalScrollView>
+
+            <!--fiction_books books scroll -->
             <TextView
                 android:layout_width="410dp"
                 android:layout_height="40dp"
@@ -103,6 +121,8 @@
                 </LinearLayout>
             </HorizontalScrollView>
 
+
+            <!--lifestyle books scroll -->
             <TextView
                 android:layout_width="410dp"
                 android:layout_height="40dp"
@@ -139,63 +159,80 @@
                         android:src="@drawable/a14" />
                 </LinearLayout>
             </HorizontalScrollView>
+
+            <!--Mystery books scroll -->
+            <TextView
+                android:layout_width="410dp"
+                android:layout_height="40dp"
+                android:padding="5dp"
+                android:text="@string/mystery"
+                android:textSize="20sp" />
+            <HorizontalScrollView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                tools:ignore="SpeakableTextPresentCheck">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:layout_width="161dp"
+                        android:layout_height="210dp"
+                        android:layout_margin="5dp"
+                        android:src="@drawable/a16" />
+
+                    <ImageView
+                        android:layout_width="165dp"
+                        android:layout_height="210dp"
+                        android:layout_margin="5dp"
+                        android:src="@drawable/a17" />
+
+                    <ImageView
+                        android:layout_width="165dp"
+                        android:layout_height="210dp"
+                        android:layout_margin="5dp"
+                        android:src="@drawable/a18" />
+                </LinearLayout>
+            </HorizontalScrollView>
+
+            <!--Mystery books scroll -->
+            <TextView
+                android:layout_width="410dp"
+                android:layout_height="40dp"
+                android:padding="5dp"
+                android:text="@string/cyberpunk"
+                android:textSize="20sp" />
+            <HorizontalScrollView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                tools:ignore="SpeakableTextPresentCheck">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:layout_width="161dp"
+                        android:layout_height="210dp"
+                        android:layout_margin="5dp"
+                        android:src="@drawable/a19" />
+
+                    <ImageView
+                        android:layout_width="165dp"
+                        android:layout_height="210dp"
+                        android:layout_margin="5dp"
+                        android:src="@drawable/a20" />
+
+                    <ImageView
+                        android:layout_width="165dp"
+                        android:layout_height="210dp"
+                        android:layout_margin="5dp"
+                        android:src="@drawable/a22" />
+                </LinearLayout>
+            </HorizontalScrollView>
         </LinearLayout>
     </ScrollView>
 </RelativeLayout>
-
-
-
-
-
-
-
-
-        <!--
-
-            <TableRow
-                android:layout_width="205dp"
-                android:layout_height="wrap_content"
-                android:layout_margin="5dp"
-                android:background="#F5D7E3">
-
-                <ImageView
-                    android:layout_width="match_parent"
-                    android:layout_height="200dp"
-                    android:layout_marginLeft="210dp"></ImageView>
-
-                <ImageView
-                    android:layout_width="match_parent"
-                    android:layout_height="200dp"></ImageView>
-            </TableRow>-->
-
-        <!--<TableRow
-                android:layout_width="205dp"
-                android:layout_height="wrap_content"
-                android:layout_margin="5dp"
-                android:background="#F5D7E3">
-
-
-            </TableRow>
-
-            <TableRow
-                android:layout_width="205dp"
-                android:layout_height="wrap_content"
-                android:layout_margin="5dp"
-                android:background="#F5D7E3">
-
-                <ImageView
-                    android:layout_width="match_parent"
-                    android:layout_height="200dp"></ImageView>
-            </TableRow>
-
-
-        </LinearLayout>-->
-
-        <!--<LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:layout_marginTop="0dp">
-        </LinearLayout>-->
-
-
-
